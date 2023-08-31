@@ -24,23 +24,23 @@
 5- execution de project in jenkins 
 
 ![jenkins 1](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/1dfab7e2-1e81-4c27-b273-1b40cd4b256c)
-![image](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/c98ab3e9-2099-488a-80c1-3f759b55bf2d)
+
 
 
 6- Sonarqube result 
 
 ![sonarqube](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/486056dc-fd4f-4ec6-9457-f0cb521679cc)
-![image](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/2f42c4c0-1fb2-4886-a2b5-37494f027cb3)
+
 
 
 7- docker image 
 
 ![docker image](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/8056e972-5b97-43f3-aa41-f2627eb34c30)
-![image](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/400fc141-bc4d-44ab-840d-687d154177a4)
+
 
 
 8- project deployed 
 
 ![2 3 tier](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/9e8a7182-0487-4114-8033-ea17d7005981)
-![image](https://github.com/ahmed252023/demo-spring-boot/assets/131555266/f374be97-4617-4f95-90cd-6913970d0b98)
+
 
